@@ -1,0 +1,16 @@
+/*
+ * exercise1.c
+ *
+ *  Created on: Sep 10, 2024
+ *      Author: Admin
+ */
+
+#include "main.h"
+
+#define LED_ON 1
+#define LED_OFF 0
+
+void led_on();
+void led_off();
+
+

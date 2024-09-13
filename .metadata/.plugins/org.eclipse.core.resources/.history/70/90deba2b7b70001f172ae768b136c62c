@@ -1,0 +1,21 @@
+/*
+ * exercise4.h
+ *
+ *  Created on: Sep 10, 2024
+ *      Author: Admin
+ */
+
+#ifndef SRC_EXERCISE4_H_
+#define SRC_EXERCISE4_H_
+
+#include "main.h"
+void  display7SEG(int num);
+void  display7SEGMENT(int num);
+
+
+#define RED1_GREEN 5
+#define RED1_YELLOW 6
+#define RED2_GREEN 7
+#define RED2_YELLOW 8
+
+#endif /* SRC_EXERCISE4_H_ */

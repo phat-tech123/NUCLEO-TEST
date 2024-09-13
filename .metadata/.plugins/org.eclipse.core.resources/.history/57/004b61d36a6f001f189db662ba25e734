@@ -1,0 +1,12 @@
+/*
+ * exercise4.c
+ *
+ *  Created on: Sep 10, 2024
+ *      Author: Admin
+ */
+
+#include "exercise4.h"
+
+ display7SEG(int num){
+
+ }

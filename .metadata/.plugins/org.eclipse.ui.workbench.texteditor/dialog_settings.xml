@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="GPIO_PIN_SET"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="GPIO_PIN_SET"/>
+			<item value="SEG"/>
+			<item value="cnt"/>
+			<item value="led2_status"/>
+			<item value="LED_RED_GPIO_Port"/>
+			<item value="LED_RED"/>
+			<item value="LED_OFF"/>
+			<item value="LED_ON"/>
+			<item value="GPIOB"/>
+			<item value="b_GPIO_Port"/>
+			<item value="exercise1.h"/>
+			<item value="a_GPIO_Port, a_Pin"/>
+			<item value="GPIOB, a_Pin"/>
+			<item value="display7SEG"/>
+			<item value="LED_GREEN"/>
+		</list>
+		<list key="replacehistory">
+			<item value="GPIO_PIN_RESET"/>
+			<item value="SEGMENT"/>
+			<item value="count"/>
+			<item value="led1_status"/>
+			<item value="LED_RED_2_GPIO_Port"/>
+			<item value="LED_YELLOW"/>
+			<item value="LED_RED"/>
+			<item value="a_GPIO_Port"/>
+			<item value="GPIOB, a_Pin"/>
+			<item value="LED_GREEN_1"/>
+			<item value="LED_YELLOW_1"/>
+			<item value="LED_RED_1"/>
+			<item value="SET"/>
+			<item value="RESET"/>
+			<item value="SETL"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1017"/>
+		<item key="DIALOG_Y_ORIGIN" value="212"/>
+		<item key="DIALOG_WIDTH" value="336"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
